@@ -1,0 +1,32 @@
+body {
+    background-color: #9D899F;
+}
+a {
+    font-family: monospace;
+    text-decoration: none;
+    font-weight: none;
+  }
+  
+  a:link {
+    color: blue;
+  }
+  
+  a:visited {
+    color: blue;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color:LawnGreen; 
+    background-color: #00c;
+  }
+  
+  a:active {
+    font-weight: bold;
+  }
+tbody {font-style: italic;
+}
+tbody {background-color: rgb(227, 227, 185)
+}
+thead {background-color: whitesmoke
+}
